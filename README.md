@@ -21,7 +21,8 @@
 
 ### Credits
 
-- Adithya Singh
+- Adithyan A
+- Aditya Singh
 - Kanika
 - Mahir
 - Pratyusha
