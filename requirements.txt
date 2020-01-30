@@ -2,4 +2,7 @@ requests
 paramiko
 beautifulsoup4
 urllib3
-
+textblob
+tweepy
+gmplot
+nmap
